@@ -1,33 +1,29 @@
 export const validateEditableField = (fieldName, fieldValue) => {
-  switch (fieldName) {
-    case 'hflaWebsiteUrl':
-      return doesLinkContainFlex(fieldValue, 'hackforla.org');
-    case 'slackUrl':
-      return doesLinkContainFlex(fieldValue, 'slack.com');
-    case 'googleDriveUrl':
-      return doesLinkContainFlex(fieldValue, 'drive.google.com');
-    case 'githubUrl':
-      return doesLinkContainFlex(fieldValue, 'github.com');
-    case 'description':
-      return typeof fieldValue === 'string' && fieldValue.length <= 250;
-    default:
-      break;
+  const validate = {
+    hflaWebsiteUrl: doesLinkContainFlex(fieldValue, 'hackforla.org'),
+    slackUrl: doesLinkContainFlex(fieldValue, 'slack.com'),
+    googleDriveUrl: doesLinkContainFlex(fieldValue, 'drive.google.com'),
+    githubUrl: doesLinkContainFlex(fieldValue, 'github.com'),
+    description: typeof fieldValue === 'string' && fieldValue.length <= 250,
   }
-  return true;
+  if (fieldName in validate){
+    return validate[fieldName]
+  }
+  else { return true; }
 };
 
 export const generateErrorEditableField = (fieldName) => {
-  switch (fieldName) {
-    case 'hflaWebsiteUrl':
-    case 'slackUrl':
-    case 'googleDriveUrl':
-    case 'githubUrl':
-      return `Invalid field value for ${fieldName}`;
-    case 'description':
-      return 'Description is too long, max 250 characters allowed';
-    default:
-      break;
+  const validate = {
+    hflaWebsiteUrl: `Invalid field value for ${fieldName}`,
+    slackUrl: `Invalid field value for ${fieldName}`,
+    googleDriveUrl: `Invalid field value for ${fieldName}`,
+    githubUrl: `Invalid field value for ${fieldName}`,
+    description: 'Description is too long, max 250 characters allowed',
   }
+  if (fieldName in validate){
+    return validate[fieldName]
+  }
+  else { return null }
 };
 
 const doesLinkContainFlex = (link, key) => {
