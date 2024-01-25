@@ -124,6 +124,9 @@ async function sendLoginLink(email, auth_origin, userName, authToken, cookie, or
     </div>
   `;
   sendEmail(email, subject, '', htmlMessage);
+  if (process.env.NODE_ENV === 'development') {
+    console.log("🔗", encodedUri)
+  }
 }
 
 const EmailController = {
