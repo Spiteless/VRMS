@@ -1,0 +1,2798 @@
+[
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "641baac68b6db3d843bec56b",
+    "name": "ARB WED 8PM",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner-a",
+        "partner-b"
+      ],
+      "managedByUsers": [],
+      "_id": "6407a1a8f97d2497a9f09dfa",
+      "name": "! ! ! ! ! !TrilliumMessingWithThis 🦄",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-07T20:42:16.180Z",
+      "__v": 0,
+      "description": "A layer-2 scaling solution for Ethereum that aims to improve the scalability, speed, and efficiency of the Ethereum network. It is built on top of Ethereum and is designed to offer a fast, cheap, and secure environment",
+      "location": "Blockchain",
+      "githubUrl": "asdf",
+      "githubIdentifier": "12e",
+      "googleDriveUrl": "af",
+      "hflaWebsiteUrl": "fq",
+      "slackUrl": "wdq"
+    },
+    "date": "2023-03-23T03:00:00.706Z",
+    "startTime": "2023-03-23T03:00:00.706Z",
+    "endTime": "2023-03-23T04:00:00.706Z",
+    "hours": 1,
+    "createdDate": "2023-03-23T01:26:30.706Z",
+    "updatedDate": "2023-03-23T01:26:30.706Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "641baaec8b6db3d843bec573",
+    "name": "CANTO THURSDAY 9AM",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "ethereum",
+        "solana"
+      ],
+      "managedByUsers": [],
+      "_id": "640500c62f66fc21b41289a5",
+      "name": "hunter x hunter",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-05T20:51:18.761Z",
+      "__v": 0,
+      "description": "gon and kilua",
+      "location": "cantoforniaaaa",
+      "githubIdentifier": "343",
+      "githubUrl": ".comaa",
+      "slackUrl": "slackaa",
+      "googleDriveUrl": "googleaaaaaa",
+      "hflaWebsiteUrl": "hfla website"
+    },
+    "date": "2023-03-23T16:00:00.556Z",
+    "startTime": "2023-03-23T16:00:00.556Z",
+    "endTime": "2023-03-23T17:00:00.556Z",
+    "hours": 1,
+    "createdDate": "2023-03-23T01:27:08.556Z",
+    "updatedDate": "2023-03-23T01:27:08.556Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "641bab118b6db3d843bec57b",
+    "name": "DOGE FRIDAY 8AM",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "qwgfq"
+      ],
+      "managedByUsers": [
+        "qegq"
+      ],
+      "_id": "640bb69269cda4085a5ba6ab",
+      "name": "! ! ! ! ! ! ! ! ! 🚨! ! ! DOGE",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-10T23:00:34.037Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "qg",
+      "description": "asd",
+      "githubIdentifier": "dqwf",
+      "githubUrl": "qwfqf",
+      "googleDriveId": "qg",
+      "googleDriveUrl": "geqwgq",
+      "location": "qwdq",
+      "slackUrl": "gweqg"
+    },
+    "date": "2023-03-24T15:00:00.046Z",
+    "startTime": "2023-03-24T15:00:00.046Z",
+    "endTime": "2023-03-24T16:00:00.046Z",
+    "hours": 1,
+    "createdDate": "2023-03-23T01:27:45.046Z",
+    "updatedDate": "2023-07-19T02:30:59.478Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "641cb2e77d00bf3600a1df82",
+    "name": "GMX THURSDAY 2PM",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "640e9e0c93ca11342517e92d",
+      "name": "!!! GMX!!!!!! trillium",
+      "description": "asd",
+      "location": "asdsda",
+      "githubIdentifier": "sadf",
+      "githubUrl": "asdf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "sd",
+      "hflaWebsiteUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-13T03:52:44.089Z",
+      "__v": 0
+    },
+    "date": "2023-03-23T21:00:00.401Z",
+    "startTime": "2023-03-23T21:00:00.401Z",
+    "endTime": "2023-03-23T22:30:00.401Z",
+    "hours": 1.5,
+    "createdDate": "2023-03-23T20:13:27.401Z",
+    "updatedDate": "2023-03-23T20:13:27.401Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "641cb9517d00bf3600a1df9e",
+    "name": "3PM THURS POLYGON",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64129d6053b16798544b1e47",
+      "name": "!!! POLYGON",
+      "description": "asdf",
+      "location": "test",
+      "githubUrl": "test",
+      "slackUrl": "test",
+      "googleDriveUrl": "test",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-16T04:38:56.064Z",
+      "__v": 0
+    },
+    "date": "2023-03-23T22:00:00.743Z",
+    "startTime": "2023-03-23T22:00:00.743Z",
+    "endTime": "2023-03-24T00:30:00.743Z",
+    "hours": 2.5,
+    "createdDate": "2023-03-23T20:40:49.744Z",
+    "updatedDate": "2023-03-23T20:40:49.744Z",
+    "videoConferenceLink": "polygon.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64223d91d4725e001eb05815",
+    "name": "VRMSs",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "TBD"
+      ],
+      "managedByUsers": [
+        ""
+      ],
+      "_id": "5edeac78ce228b001778facd",
+      "name": "VRMS",
+      "description": "VRMS is a tool used for the engagement, support, and retention of a network of volunteers.",
+      "githubIdentifier": "226157870",
+      "projectStatus": "Active",
+      "location": "DTLA",
+      "githubUrl": "https://github.com/hackforla/VRMS",
+      "slackUrl": "https://hackforla.slack.com/archives/CRGH5HM0Q",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "googleDriveId": "1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/vrms",
+      "videoConferenceLink": "https://us02web.zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- Front end devs (any level)  - Back end devs (any level)",
+      "createdDate": "2020-06-08T21:24:08.313Z",
+      "__v": 0
+    },
+    "date": "2023-07-20T01:01:39.344Z",
+    "startTime": "2023-07-19T19:00:00.344Z",
+    "endTime": "2023-07-19T23:00:00.344Z",
+    "hours": 4,
+    "createdDate": "2023-03-28T01:06:25.267Z",
+    "updatedDate": "2023-07-20T01:01:39.344Z",
+    "videoConferenceLink": "vrms.io",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64234123bdad3747de4e1e92",
+    "name": "ALL TEAMS",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner-a",
+        "partner-b"
+      ],
+      "managedByUsers": [],
+      "_id": "6407a1a8f97d2497a9f09dfa",
+      "name": "! ! ! ! ! !TrilliumMessingWithThis 🦄",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-07T20:42:16.180Z",
+      "__v": 0,
+      "description": "A layer-2 scaling solution for Ethereum that aims to improve the scalability, speed, and efficiency of the Ethereum network. It is built on top of Ethereum and is designed to offer a fast, cheap, and secure environment",
+      "location": "Blockchain",
+      "githubUrl": "asdf",
+      "githubIdentifier": "12e",
+      "googleDriveUrl": "af",
+      "hflaWebsiteUrl": "fq",
+      "slackUrl": "wdq"
+    },
+    "date": "2023-03-28T20:00:00.858Z",
+    "startTime": "2023-03-28T20:00:00.858Z",
+    "endTime": "2023-03-28T21:30:00.858Z",
+    "hours": 1.5,
+    "createdDate": "2023-03-28T19:33:55.858Z",
+    "updatedDate": "2023-03-28T19:33:55.858Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64234144bdad3747de4e1e9a",
+    "name": "ONLY DEVS",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "ethereum",
+        "solana"
+      ],
+      "managedByUsers": [],
+      "_id": "640500c62f66fc21b41289a5",
+      "name": "hunter x hunter",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-05T20:51:18.761Z",
+      "__v": 0,
+      "description": "gon and kilua",
+      "location": "cantoforniaaaa",
+      "githubIdentifier": "343",
+      "githubUrl": ".comaa",
+      "slackUrl": "slackaa",
+      "googleDriveUrl": "googleaaaaaa",
+      "hflaWebsiteUrl": "hfla website"
+    },
+    "date": "2023-03-28T20:30:00.363Z",
+    "startTime": "2023-03-28T20:30:00.363Z",
+    "endTime": "2023-03-28T21:30:00.363Z",
+    "hours": 1,
+    "createdDate": "2023-03-28T19:34:28.363Z",
+    "updatedDate": "2023-03-28T19:34:28.363Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "64234163bdad3747de4e1ea2",
+    "name": "ONLY DESIGN",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "qwgfq"
+      ],
+      "managedByUsers": [
+        "qegq"
+      ],
+      "_id": "640bb69269cda4085a5ba6ab",
+      "name": "! ! ! ! ! ! ! ! ! 🚨! ! ! DOGE",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-10T23:00:34.037Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "qg",
+      "description": "asd",
+      "githubIdentifier": "dqwf",
+      "githubUrl": "qwfqf",
+      "googleDriveId": "qg",
+      "googleDriveUrl": "geqwgq",
+      "location": "qwdq",
+      "slackUrl": "gweqg"
+    },
+    "date": "2023-03-28T19:30:00.212Z",
+    "startTime": "2023-03-28T19:30:00.212Z",
+    "endTime": "2023-03-28T22:00:00.212Z",
+    "hours": 2.5,
+    "createdDate": "2023-03-28T19:34:59.212Z",
+    "updatedDate": "2023-07-19T02:44:48.269Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64234188bdad3747de4e1eaa",
+    "name": "ALL TEAM",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "asdf",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "640e9e0c93ca11342517e92d",
+      "name": "!!! GMX!!!!!! trillium",
+      "description": "asd",
+      "location": "asdsda",
+      "githubIdentifier": "sadf",
+      "githubUrl": "asdf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "sd",
+      "hflaWebsiteUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-13T03:52:44.089Z",
+      "__v": 0
+    },
+    "date": "2023-07-03T16:37:50.025Z",
+    "startTime": "2023-06-27T13:00:00.025Z",
+    "endTime": "2023-06-27T15:00:00.025Z",
+    "hours": 2,
+    "createdDate": "2023-03-28T19:35:36.040Z",
+    "updatedDate": "2023-07-23T21:35:05.156Z",
+    "videoConferenceLink": "asdf.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "642352b7bdad3747de4e1edf",
+    "name": "Project Population Test",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner-a",
+        "partner-b"
+      ],
+      "managedByUsers": [],
+      "_id": "6407a1a8f97d2497a9f09dfa",
+      "name": "! ! ! ! ! !TrilliumMessingWithThis 🦄",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-07T20:42:16.180Z",
+      "__v": 0,
+      "description": "A layer-2 scaling solution for Ethereum that aims to improve the scalability, speed, and efficiency of the Ethereum network. It is built on top of Ethereum and is designed to offer a fast, cheap, and secure environment",
+      "location": "Blockchain",
+      "githubUrl": "asdf",
+      "githubIdentifier": "12e",
+      "googleDriveUrl": "af",
+      "hflaWebsiteUrl": "fq",
+      "slackUrl": "wdq"
+    },
+    "date": "2023-03-28T21:00:00.883Z",
+    "startTime": "2023-03-28T21:00:00.883Z",
+    "endTime": "2023-03-29T00:00:00.883Z",
+    "hours": 3,
+    "createdDate": "2023-03-28T20:48:55.883Z",
+    "updatedDate": "2023-03-28T20:48:55.883Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64239dc7dab3d217df9e2d77",
+    "name": "ONLY DEVS",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "TBD"
+      ],
+      "managedByUsers": [
+        ""
+      ],
+      "_id": "5edeac78ce228b001778facd",
+      "name": "VRMS",
+      "description": "VRMS is a tool used for the engagement, support, and retention of a network of volunteers.",
+      "githubIdentifier": "226157870",
+      "projectStatus": "Active",
+      "location": "DTLA",
+      "githubUrl": "https://github.com/hackforla/VRMS",
+      "slackUrl": "https://hackforla.slack.com/archives/CRGH5HM0Q",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "googleDriveId": "1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/vrms",
+      "videoConferenceLink": "https://us02web.zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- Front end devs (any level)  - Back end devs (any level)",
+      "createdDate": "2020-06-08T21:24:08.313Z",
+      "__v": 0
+    },
+    "date": "2023-03-29T15:00:00.770Z",
+    "startTime": "2023-03-29T15:00:00.770Z",
+    "endTime": "2023-03-29T19:00:00.770Z",
+    "hours": 4,
+    "createdDate": "2023-03-29T02:09:11.771Z",
+    "updatedDate": "2023-03-29T02:09:11.771Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64239edadab3d217df9e2d7b",
+    "name": "meetingn",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "TBD"
+      ],
+      "managedByUsers": [
+        ""
+      ],
+      "_id": "5edeac78ce228b001778facd",
+      "name": "VRMS",
+      "description": "VRMS is a tool used for the engagement, support, and retention of a network of volunteers.",
+      "githubIdentifier": "226157870",
+      "projectStatus": "Active",
+      "location": "DTLA",
+      "githubUrl": "https://github.com/hackforla/VRMS",
+      "slackUrl": "https://hackforla.slack.com/archives/CRGH5HM0Q",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "googleDriveId": "1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/vrms",
+      "videoConferenceLink": "https://us02web.zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- Front end devs (any level)  - Back end devs (any level)",
+      "createdDate": "2020-06-08T21:24:08.313Z",
+      "__v": 0
+    },
+    "date": "2023-11-08T19:56:57.439Z",
+    "startTime": "2023-11-08T20:00:00.439Z",
+    "endTime": "2023-11-08T22:00:00.439Z",
+    "hours": 2,
+    "createdDate": "2023-03-29T02:13:46.659Z",
+    "updatedDate": "2023-11-08T19:56:57.439Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64239f89dab3d217df9e2d82",
+    "name": "HACKATHON",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "TBD"
+      ],
+      "managedByUsers": [
+        ""
+      ],
+      "_id": "5edeac78ce228b001778facd",
+      "name": "VRMS",
+      "description": "VRMS is a tool used for the engagement, support, and retention of a network of volunteers.",
+      "githubIdentifier": "226157870",
+      "projectStatus": "Active",
+      "location": "DTLA",
+      "githubUrl": "https://github.com/hackforla/VRMS",
+      "slackUrl": "https://hackforla.slack.com/archives/CRGH5HM0Q",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "googleDriveId": "1uxCkpcPtDjrhftBO-axU2g8hjXsxiLiS",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/vrms",
+      "videoConferenceLink": "https://us02web.zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- Front end devs (any level)  - Back end devs (any level)",
+      "createdDate": "2020-06-08T21:24:08.313Z",
+      "__v": 0
+    },
+    "date": "2023-03-29T21:00:00.770Z",
+    "startTime": "2023-03-29T21:00:00.770Z",
+    "endTime": "2023-03-30T01:00:00.770Z",
+    "hours": 4,
+    "createdDate": "2023-03-29T02:16:41.770Z",
+    "updatedDate": "2023-03-29T02:16:41.770Z",
+    "videoConferenceLink": "hackahton.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "642715a6dcfb103dba77bbc5",
+    "name": "BiggerName penguin",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "Update time to Sunday at 9PM",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner-a",
+        "partner-b"
+      ],
+      "managedByUsers": [],
+      "_id": "6407a1a8f97d2497a9f09dfa",
+      "name": "! ! ! ! ! !TrilliumMessingWithThis 🦄",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-07T20:42:16.180Z",
+      "__v": 0,
+      "description": "A layer-2 scaling solution for Ethereum that aims to improve the scalability, speed, and efficiency of the Ethereum network. It is built on top of Ethereum and is designed to offer a fast, cheap, and secure environment",
+      "location": "Blockchain",
+      "githubUrl": "asdf",
+      "githubIdentifier": "12e",
+      "googleDriveUrl": "af",
+      "hflaWebsiteUrl": "fq",
+      "slackUrl": "wdq"
+    },
+    "date": "2023-11-05T21:33:21.942Z",
+    "startTime": "2023-11-06T05:00:00.942Z",
+    "endTime": "2023-11-06T06:00:00.942Z",
+    "hours": 1,
+    "createdDate": "2023-03-31T17:17:26.679Z",
+    "updatedDate": "2023-11-05T21:33:21.942Z",
+    "videoConferenceLink": "www.zoom.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "645978fc2579fbf0bfa55dd9",
+    "name": "ARB--Mon8AM2hr",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner-a",
+        "partner-b"
+      ],
+      "managedByUsers": [],
+      "_id": "6407a1a8f97d2497a9f09dfa",
+      "name": "! ! ! ! ! !TrilliumMessingWithThis 🦄",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-07T20:42:16.180Z",
+      "__v": 0,
+      "description": "A layer-2 scaling solution for Ethereum that aims to improve the scalability, speed, and efficiency of the Ethereum network. It is built on top of Ethereum and is designed to offer a fast, cheap, and secure environment",
+      "location": "Blockchain",
+      "githubUrl": "asdf",
+      "githubIdentifier": "12e",
+      "googleDriveUrl": "af",
+      "hflaWebsiteUrl": "fq",
+      "slackUrl": "wdq"
+    },
+    "date": "2023-11-13T18:25:23.037Z",
+    "startTime": "2023-11-13T16:00:00.037Z",
+    "endTime": "2023-11-13T18:00:00.037Z",
+    "hours": 2,
+    "createdDate": "2023-05-08T15:35:00.706Z",
+    "updatedDate": "2023-11-13T18:25:23.037Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6459b7420659c772705c6bcd",
+    "name": "Test test v",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Test test v",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "Partner one",
+        "Partner two"
+      ],
+      "managedByUsers": [],
+      "_id": "5edeb146ce228b001778fad0",
+      "name": "Hackforla.org Website",
+      "description": "The hackforla.org website is our organization's way of communicating with new volunteers, stakeholders, and donors. This project is a good place to start for new volunteers looking to polish their git protocol skills (branches, separation of concerns, etc.). We are currently in a redesign phase, using CI/CD in the run up to demoing the new version at Code for America's Summit 2020 in Washington, D.C.",
+      "githubIdentifier": "130000551",
+      "projectStatus": "Active",
+      "location": "Westside, DTLA, NPR",
+      "githubUrl": "https://github.com/hackforla/website",
+      "slackUrl": "https://hackforla.slack.com/archives/C4UM52W93",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "googleDriveId": "1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/website",
+      "videoConferenceLink": "https://zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- UI (wireframes) \n - Photoshop \n - Junior JavaScript developers \n - anyone wanting to learn how to do Git commits in a collaborative work environment",
+      "createdDate": "2020-06-08T21:44:38.303Z",
+      "__v": 0
+    },
+    "date": "2023-11-21T03:30:39.304Z",
+    "startTime": "2023-11-21T04:00:00.304Z",
+    "endTime": "2023-11-21T05:00:00.304Z",
+    "hours": 1,
+    "createdDate": "2023-05-09T03:00:17.775Z",
+    "updatedDate": "2023-11-21T03:30:39.304Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6459b7b80659c772705c6bd0",
+    "name": "Test test v2",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Test test v2",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "Partner one",
+        "Partner two"
+      ],
+      "managedByUsers": [],
+      "_id": "5edeb146ce228b001778fad0",
+      "name": "Hackforla.org Website",
+      "description": "The hackforla.org website is our organization's way of communicating with new volunteers, stakeholders, and donors. This project is a good place to start for new volunteers looking to polish their git protocol skills (branches, separation of concerns, etc.). We are currently in a redesign phase, using CI/CD in the run up to demoing the new version at Code for America's Summit 2020 in Washington, D.C.",
+      "githubIdentifier": "130000551",
+      "projectStatus": "Active",
+      "location": "Westside, DTLA, NPR",
+      "githubUrl": "https://github.com/hackforla/website",
+      "slackUrl": "https://hackforla.slack.com/archives/C4UM52W93",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "googleDriveId": "1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/website",
+      "videoConferenceLink": "https://zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- UI (wireframes) \n - Photoshop \n - Junior JavaScript developers \n - anyone wanting to learn how to do Git commits in a collaborative work environment",
+      "createdDate": "2020-06-08T21:44:38.303Z",
+      "__v": 0
+    },
+    "date": "2023-11-21T03:17:20.221Z",
+    "startTime": "2023-11-21T04:30:00.221Z",
+    "endTime": "2023-11-21T05:00:00.221Z",
+    "hours": 0.5,
+    "createdDate": "2023-05-09T03:02:16.238Z",
+    "updatedDate": "2023-11-21T03:17:20.221Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6459b7ed0659c772705c6bd1",
+    "name": "Test test v3",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Test test v3",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "Partner one",
+        "Partner two"
+      ],
+      "managedByUsers": [],
+      "_id": "5edeb146ce228b001778fad0",
+      "name": "Hackforla.org Website",
+      "description": "The hackforla.org website is our organization's way of communicating with new volunteers, stakeholders, and donors. This project is a good place to start for new volunteers looking to polish their git protocol skills (branches, separation of concerns, etc.). We are currently in a redesign phase, using CI/CD in the run up to demoing the new version at Code for America's Summit 2020 in Washington, D.C.",
+      "githubIdentifier": "130000551",
+      "projectStatus": "Active",
+      "location": "Westside, DTLA, NPR",
+      "githubUrl": "https://github.com/hackforla/website",
+      "slackUrl": "https://hackforla.slack.com/archives/C4UM52W93",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "googleDriveId": "1p76K0FgfiAWeIIEyoyJ_Iik8FVj8cBjT",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/website",
+      "videoConferenceLink": "https://zoom.us/j/4451450308?pwd=U0JobzZqN0xGSXBUUkRsNlB5YzJiQT09",
+      "lookingDescription": "- UI (wireframes) \n - Photoshop \n - Junior JavaScript developers \n - anyone wanting to learn how to do Git commits in a collaborative work environment",
+      "createdDate": "2020-06-08T21:44:38.303Z",
+      "__v": 0
+    },
+    "date": "2023-11-21T03:16:59.948Z",
+    "startTime": "2023-11-21T05:00:00.948Z",
+    "endTime": "2023-11-21T05:30:00.948Z",
+    "hours": 0.5,
+    "createdDate": "2023-05-09T03:03:09.686Z",
+    "updatedDate": "2023-11-21T03:16:59.948Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6459c22d66076b4dc0b96a53",
+    "name": "Vanessa's 9pm",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "9pm meeting",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-05-09T04:00:00.270Z",
+    "startTime": "2023-05-09T04:00:00.270Z",
+    "endTime": "2023-05-09T04:30:00.270Z",
+    "hours": 0.5,
+    "createdDate": "2023-05-09T03:46:53.270Z",
+    "updatedDate": "2023-05-09T03:46:53.270Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6459c24566076b4dc0b96a54",
+    "name": "Vanessa's 9:30pm",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "9:30pm meeting",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-05-09T04:30:00.008Z",
+    "startTime": "2023-05-09T04:30:00.008Z",
+    "endTime": "2023-05-09T05:00:00.008Z",
+    "hours": 0.5,
+    "createdDate": "2023-05-09T03:47:17.008Z",
+    "updatedDate": "2023-05-09T03:47:17.008Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "647027d8253dbf002a18f5b9",
+    "name": "new meeting",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Description",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6453dfff390bc1002ab3eb6d",
+      "name": "!  !  !  !  !  ! 🦄 MrSquiggles",
+      "description": "Trillium edited this project 7/15 to see if the DB will duplicate an event that is created for 5:00pm",
+      "location": "BLOCK",
+      "githubUrl": "https://github.com/aav",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdfeeddaasaaaaaaa",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-04T16:40:31.024Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "!!! AAVEaaaaaaa",
+      "githubIdentifier": "al;sdfma"
+    },
+    "date": "2023-06-17T17:04:14.856Z",
+    "startTime": "2023-06-16T16:30:00.856Z",
+    "endTime": "2023-06-16T19:30:00.856Z",
+    "hours": 3,
+    "createdDate": "2023-05-26T03:30:32.326Z",
+    "updatedDate": "2023-06-16T17:04:14.856Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64727039abd918338c66aa89",
+    "name": "Saturday test",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Saturday",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-05-27T21:30:00.799Z",
+    "startTime": "2023-05-27T21:30:00.799Z",
+    "endTime": "2023-05-27T23:00:00.799Z",
+    "hours": 1.5,
+    "createdDate": "2023-05-27T21:03:53.799Z",
+    "updatedDate": "2023-05-27T21:03:53.799Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6472705aabd918338c66aa8a",
+    "name": "Saturday test 2",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Saturday test 2",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-05-27T22:00:00.062Z",
+    "startTime": "2023-05-27T22:00:00.062Z",
+    "endTime": "2023-05-27T22:30:00.062Z",
+    "hours": 0.5,
+    "createdDate": "2023-05-27T21:04:26.062Z",
+    "updatedDate": "2023-05-27T21:04:26.062Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "647a734bab091f001e309244",
+    "name": "Simba's team",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "647a6c05ab091f001e309243",
+      "name": "",
+      "description": "This is a test to create the site map for VRMS",
+      "location": "not sure",
+      "githubUrl": "note sure",
+      "slackUrl": "not sure",
+      "googleDriveUrl": "not sure",
+      "projectStatus": "Active",
+      "createdDate": "2023-06-02T22:24:05.576Z",
+      "__v": 0
+    },
+    "date": "2023-06-05T02:00:00.568Z",
+    "startTime": "2023-06-05T02:00:00.568Z",
+    "endTime": "2023-06-05T03:00:00.568Z",
+    "hours": 1,
+    "createdDate": "2023-06-02T22:55:07.568Z",
+    "updatedDate": "2023-06-02T22:55:07.568Z",
+    "videoConferenceLink": "zoom.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6488f664ab091f001e309270",
+    "name": "event",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "e",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-06-13T23:30:00.610Z",
+    "startTime": "2023-06-13T23:30:00.610Z",
+    "endTime": "2023-06-14T00:30:00.610Z",
+    "hours": 1,
+    "createdDate": "2023-06-13T23:06:12.610Z",
+    "updatedDate": "2023-06-13T23:06:12.610Z",
+    "videoConferenceLink": "e.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6488f674ab091f001e309271",
+    "name": "General meeting",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "Desc",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "641669815475935cede37265",
+      "name": "! TuesdayRecurringEvents-10:30+",
+      "description": "pr/1401",
+      "location": "asda",
+      "githubUrl": "sadf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-19T01:46:41.397Z",
+      "__v": 0
+    },
+    "date": "2023-07-04T23:15:27.797Z",
+    "startTime": "2023-07-05T01:30:00.797Z",
+    "endTime": "2023-07-05T02:30:00.797Z",
+    "hours": 1,
+    "createdDate": "2023-06-13T23:06:28.021Z",
+    "updatedDate": "2023-07-04T23:15:27.797Z",
+    "videoConferenceLink": "e.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6488f680ab091f001e309272",
+    "name": "e",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "e",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6237d69f1a338f22cb043bfc",
+      "name": "foo",
+      "projectStatus": "Active",
+      "createdDate": "2022-03-21T01:36:31.752Z",
+      "__v": 0
+    },
+    "date": "2023-06-14T02:00:00.137Z",
+    "startTime": "2023-06-14T02:00:00.137Z",
+    "endTime": "2023-06-14T03:00:00.137Z",
+    "hours": 1,
+    "createdDate": "2023-06-13T23:06:40.137Z",
+    "updatedDate": "2023-06-13T23:06:40.137Z",
+    "videoConferenceLink": "e.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6488f68edc3c5b4d98f4cbc7",
+    "name": "Test",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Test",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6459c21266076b4dc0b96a52",
+      "name": "Vanessa's Project",
+      "description": "Vanessa's description",
+      "location": "zoom.com",
+      "githubUrl": "https://github.com",
+      "slackUrl": "https://slack.com",
+      "googleDriveUrl": "https://google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-09T03:46:26.742Z",
+      "__v": 0
+    },
+    "date": "2023-06-14T00:00:00.016Z",
+    "startTime": "2023-06-14T00:00:00.016Z",
+    "endTime": "2023-06-14T01:00:00.016Z",
+    "hours": 1,
+    "createdDate": "2023-06-13T23:06:54.016Z",
+    "updatedDate": "2023-06-13T23:06:54.016Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6491301fd87de12413712047",
+    "name": "penguin penguin pal #1",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Update start time to 5PM PST",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6453dfff390bc1002ab3eb6d",
+      "name": "!  !  !  !  !  ! 🦄 MrSquiggles",
+      "description": "Trillium edited this project 7/15 to see if the DB will duplicate an event that is created for 5:00pm",
+      "location": "BLOCK",
+      "githubUrl": "https://github.com/aav",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdfeeddaasaaaaaaa",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-04T16:40:31.024Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "!!! AAVEaaaaaaa",
+      "githubIdentifier": "al;sdfma"
+    },
+    "date": "2023-11-05T21:18:50.328Z",
+    "startTime": "2023-11-05T21:30:00.328Z",
+    "endTime": "2023-11-05T23:30:00.328Z",
+    "hours": 2,
+    "createdDate": "2023-06-20T04:50:39.023Z",
+    "updatedDate": "2023-11-05T21:18:50.328Z",
+    "videoConferenceLink": "a.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6491308cd87de12413712049",
+    "name": "NEW EVE",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "NEW",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6491307cd87de12413712048",
+      "name": "!!!!!!!AAAAAAAAAAA!!!!",
+      "description": "A",
+      "location": "Home",
+      "githubUrl": "www.github.com",
+      "slackUrl": "www.slack.com",
+      "googleDriveUrl": "www.google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-06-20T04:52:12.596Z",
+      "__v": 0
+    },
+    "date": "2023-06-26T02:00:00.019Z",
+    "startTime": "2023-06-26T02:00:00.019Z",
+    "endTime": "2023-06-26T03:00:00.019Z",
+    "hours": 1,
+    "createdDate": "2023-06-20T04:52:28.019Z",
+    "updatedDate": "2023-06-20T04:52:28.019Z",
+    "videoConferenceLink": "New.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64923b18df75d6ab410fdf30",
+    "name": "TEST 02  MEETING",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": null,
+    "date": "2023-06-21T23:49:57.302Z",
+    "startTime": "2023-06-21T02:00:00.302Z",
+    "endTime": "2023-06-21T03:00:00.302Z",
+    "hours": 1,
+    "createdDate": "2023-06-20T23:49:44.280Z",
+    "updatedDate": "2023-06-20T23:49:57.302Z",
+    "videoConferenceLink": "link.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64ae39d6f95a2e001f630b5c",
+    "name": "Name of this thang",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "description",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "641669815475935cede37265",
+      "name": "! TuesdayRecurringEvents-10:30+",
+      "description": "pr/1401",
+      "location": "asda",
+      "githubUrl": "sadf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-19T01:46:41.397Z",
+      "__v": 0
+    },
+    "date": "2023-07-12T05:00:00.286Z",
+    "startTime": "2023-07-12T05:00:00.286Z",
+    "endTime": "2023-07-12T06:00:00.286Z",
+    "hours": 1,
+    "createdDate": "2023-07-12T05:27:50.286Z",
+    "updatedDate": "2023-07-12T05:27:50.286Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64ae3a44f95a2e001f630b5d",
+    "name": "11:00PM time to meet",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Description",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "641669815475935cede37265",
+      "name": "! TuesdayRecurringEvents-10:30+",
+      "description": "pr/1401",
+      "location": "asda",
+      "githubUrl": "sadf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-19T01:46:41.397Z",
+      "__v": 0
+    },
+    "date": "2023-07-12T06:00:00.029Z",
+    "startTime": "2023-07-12T06:00:00.029Z",
+    "endTime": "2023-07-12T07:00:00.029Z",
+    "hours": 1,
+    "createdDate": "2023-07-12T05:29:40.029Z",
+    "updatedDate": "2023-07-12T05:29:40.029Z",
+    "videoConferenceLink": "🦄.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64af0fd9f95a2e001f630b61",
+    "name": "two o clock session 🦄",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "2pm session for all the cool people",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64165ef74f69a92865c706aa",
+      "name": "!!! Scroll",
+      "description": "Native zkEVM layer 2 for ethereum",
+      "location": "the blockchain",
+      "githubUrl": "aa",
+      "slackUrl": "aa",
+      "googleDriveUrl": "aa",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-19T01:01:43.316Z",
+      "__v": 0
+    },
+    "date": "2023-07-12T21:00:00.408Z",
+    "startTime": "2023-07-12T21:00:00.408Z",
+    "endTime": "2023-07-12T22:00:00.408Z",
+    "hours": 1,
+    "createdDate": "2023-07-12T20:40:57.408Z",
+    "updatedDate": "2023-07-12T20:40:57.408Z",
+    "videoConferenceLink": "zoom.link",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64b1a5cd03228e0020f67575",
+    "name": "OnboardingTestFriday",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "Meet meet",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6453dfff390bc1002ab3eb6d",
+      "name": "!  !  !  !  !  ! 🦄 MrSquiggles",
+      "description": "Trillium edited this project 7/15 to see if the DB will duplicate an event that is created for 5:00pm",
+      "location": "BLOCK",
+      "githubUrl": "https://github.com/aav",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdfeeddaasaaaaaaa",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-04T16:40:31.024Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "!!! AAVEaaaaaaa",
+      "githubIdentifier": "al;sdfma"
+    },
+    "date": "2023-07-14T20:30:00.809Z",
+    "startTime": "2023-07-14T20:30:00.809Z",
+    "endTime": "2023-07-14T22:30:00.809Z",
+    "hours": 2,
+    "createdDate": "2023-07-14T19:45:16.809Z",
+    "updatedDate": "2023-07-14T19:45:16.809Z",
+    "videoConferenceLink": "Zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "64b7260203228e0020f67588",
+    "name": "Can we create a new event",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "649f676cf95a2e001f630b1e",
+      "name": "! ! TEST custom req header change",
+      "description": "qqqq",
+      "location": "qqqq",
+      "githubUrl": "qqqq",
+      "slackUrl": "qqqq",
+      "googleDriveUrl": "qqqq",
+      "projectStatus": "Active",
+      "createdDate": "2023-06-30T23:38:20.352Z",
+      "__v": 0
+    },
+    "date": "2023-07-24T02:00:00.792Z",
+    "startTime": "2023-07-24T02:00:00.792Z",
+    "endTime": "2023-07-24T03:00:00.792Z",
+    "hours": 1,
+    "createdDate": "2023-07-18T23:53:38.793Z",
+    "updatedDate": "2023-07-21T22:42:02.128Z",
+    "videoConferenceLink": "LINK.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64b7296cf465993fe814c333",
+    "name": "test",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "649f676cf95a2e001f630b1e",
+      "name": "! ! TEST custom req header change",
+      "description": "qqqq",
+      "location": "qqqq",
+      "githubUrl": "qqqq",
+      "slackUrl": "qqqq",
+      "googleDriveUrl": "qqqq",
+      "projectStatus": "Active",
+      "createdDate": "2023-06-30T23:38:20.352Z",
+      "__v": 0
+    },
+    "date": "2023-07-24T02:00:00.037Z",
+    "startTime": "2023-07-24T02:00:00.037Z",
+    "endTime": "2023-07-24T03:00:00.037Z",
+    "hours": 1,
+    "createdDate": "2023-07-19T00:08:12.037Z",
+    "updatedDate": "2023-07-19T00:08:12.037Z",
+    "videoConferenceLink": "link.co",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "64b74b0bcee879002a81c897",
+    "name": "summit",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "test",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "bojack",
+        "diane"
+      ],
+      "managedByUsers": [],
+      "_id": "640576fad0fee8001d7b18cc",
+      "name": "!!! SOLANA",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-06T05:15:38.846Z",
+      "__v": 0,
+      "description": "A high performance, open-source blockchain platform",
+      "location": "Layer 01",
+      "githubIdentifier": "asdf",
+      "githubUrl": "asdf",
+      "slackUrl": "safd",
+      "googleDriveUrl": "asdf",
+      "hflaWebsiteUrl": "asdf"
+    },
+    "date": "2023-07-26T00:40:21.898Z",
+    "startTime": "2023-07-20T02:00:00.898Z",
+    "endTime": "2023-07-20T04:00:00.898Z",
+    "hours": 2,
+    "createdDate": "2023-07-19T02:31:39.880Z",
+    "updatedDate": "2023-07-20T00:40:21.897Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": true,
+    "_id": "64b88281b2120f0029099891",
+    "name": "hackathon",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "hack",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "bojack",
+        "diane"
+      ],
+      "managedByUsers": [],
+      "_id": "640576fad0fee8001d7b18cc",
+      "name": "!!! SOLANA",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-06T05:15:38.846Z",
+      "__v": 0,
+      "description": "A high performance, open-source blockchain platform",
+      "location": "Layer 01",
+      "githubIdentifier": "asdf",
+      "githubUrl": "asdf",
+      "slackUrl": "safd",
+      "googleDriveUrl": "asdf",
+      "hflaWebsiteUrl": "asdf"
+    },
+    "date": "2023-07-24T02:00:00.057Z",
+    "startTime": "2023-07-24T02:00:00.057Z",
+    "endTime": "2023-07-24T03:00:00.057Z",
+    "hours": 1,
+    "createdDate": "2023-07-20T00:40:33.057Z",
+    "updatedDate": "2023-07-20T00:40:36.498Z",
+    "videoConferenceLink": "hack.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64b88b0bf23f713d459f368c",
+    "name": "sheesh",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "640e9e0c93ca11342517e92d",
+      "name": "!!! GMX!!!!!! trillium",
+      "description": "asd",
+      "location": "asdsda",
+      "githubIdentifier": "sadf",
+      "githubUrl": "asdf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "sd",
+      "hflaWebsiteUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-13T03:52:44.089Z",
+      "__v": 0
+    },
+    "date": "2023-07-26T02:00:00.717Z",
+    "startTime": "2023-07-26T02:00:00.717Z",
+    "endTime": "2023-07-26T03:00:00.717Z",
+    "hours": 1,
+    "createdDate": "2023-07-20T01:16:59.718Z",
+    "updatedDate": "2023-07-20T01:16:59.718Z",
+    "videoConferenceLink": "www.google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64b9a905e3216f88f33d567f",
+    "name": "TEST1",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "m",
+    "project": null,
+    "date": "2023-07-24T02:30:00.619Z",
+    "startTime": "2023-07-24T02:30:00.619Z",
+    "endTime": "2023-07-24T03:30:00.619Z",
+    "hours": 1,
+    "createdDate": "2023-07-20T21:37:09.620Z",
+    "updatedDate": "2023-07-20T21:37:30.000Z",
+    "videoConferenceLink": "google.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64b9ace6e3216f88f33d5680",
+    "name": "TEST1 meetinng",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "asdfghjk",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "i",
+        "am",
+        "a",
+        "partner"
+      ],
+      "managedByUsers": [],
+      "_id": "63fd9b27d484737e015cdf11",
+      "name": "Name",
+      "projectStatus": "Active",
+      "createdDate": "2023-02-28T06:11:51.495Z",
+      "__v": 0,
+      "description": "New description",
+      "location": "Change location",
+      "githubIdentifier": "Git'",
+      "githubUrl": "url",
+      "slackUrl": "url",
+      "googleDriveUrl": "url",
+      "hflaWebsiteUrl": "url"
+    },
+    "date": "2023-08-14T00:31:12.398Z",
+    "startTime": "2023-08-08T05:30:00.398Z",
+    "endTime": "2023-08-08T06:30:00.398Z",
+    "hours": 1,
+    "createdDate": "2023-07-20T21:53:42.991Z",
+    "updatedDate": "2023-08-08T00:31:12.398Z",
+    "videoConferenceLink": "asdfghjkl.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64c74da278a61384c083884e",
+    "name": "meetin vooaa",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "detials",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "qwgfq"
+      ],
+      "managedByUsers": [
+        "qegq"
+      ],
+      "_id": "640bb69269cda4085a5ba6ab",
+      "name": "! ! ! ! ! ! ! ! ! 🚨! ! ! DOGE",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-10T23:00:34.037Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "qg",
+      "description": "asd",
+      "githubIdentifier": "dqwf",
+      "githubUrl": "qwfqf",
+      "googleDriveId": "qg",
+      "googleDriveUrl": "geqwgq",
+      "location": "qwdq",
+      "slackUrl": "gweqg"
+    },
+    "date": "2023-11-05T22:10:00.617Z",
+    "startTime": "2023-11-06T03:00:00.617Z",
+    "endTime": "2023-11-06T04:00:00.617Z",
+    "hours": 1,
+    "createdDate": "2023-07-31T05:58:58.158Z",
+    "updatedDate": "2023-11-05T22:10:00.617Z",
+    "videoConferenceLink": "link.com/co",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64c84a09d18d6c002a6ab0e3",
+    "name": "Engaged",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "test.com",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "City of Santa Monica"
+      ],
+      "managedByUsers": [],
+      "_id": "5edea472ce228b001778fac8",
+      "name": "Engage",
+      "description": "Engage is a civic participation platform. Currently in beta, Engage makes it easier for residents of Santa Monica, CA to offer their feedback on policy issues that City Council is considering. Engage aims to increase access for community stakeholders who are unable to attend public meetings or may otherwise feel unheard by their local government.",
+      "githubIdentifier": "138791772",
+      "projectStatus": "Active",
+      "location": "Westside",
+      "githubUrl": "https://github.com/hackla-engage",
+      "slackUrl": "https://hackforla.slack.com/archives/C6JBH478W",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so",
+      "googleDriveId": "1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/engage",
+      "videoConferenceLink": "",
+      "lookingDescription": "- Product Manager \n - Project Manager \n - UX designers \n - React developers \n - NLP engineer",
+      "createdDate": "2020-06-08T20:49:54.861Z",
+      "__v": 0
+    },
+    "date": "2023-08-06T23:57:12.746Z",
+    "startTime": "2023-08-01T02:00:00.746Z",
+    "endTime": "2023-08-01T03:00:00.746Z",
+    "hours": 1,
+    "createdDate": "2023-07-31T23:55:53.924Z",
+    "updatedDate": "2023-07-31T23:57:12.746Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64c84aadd18d6c002a6ab0e4",
+    "name": "engage_meeting",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "City of Santa Monica"
+      ],
+      "managedByUsers": [],
+      "_id": "5edea472ce228b001778fac8",
+      "name": "Engage",
+      "description": "Engage is a civic participation platform. Currently in beta, Engage makes it easier for residents of Santa Monica, CA to offer their feedback on policy issues that City Council is considering. Engage aims to increase access for community stakeholders who are unable to attend public meetings or may otherwise feel unheard by their local government.",
+      "githubIdentifier": "138791772",
+      "projectStatus": "Active",
+      "location": "Westside",
+      "githubUrl": "https://github.com/hackla-engage",
+      "slackUrl": "https://hackforla.slack.com/archives/C6JBH478W",
+      "googleDriveUrl": "https://drive.google.com/drive/folders/1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so",
+      "googleDriveId": "1rSrFjlzgJqJOIC4DMrANLj4tC0_ZJ3so",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/engage",
+      "videoConferenceLink": "",
+      "lookingDescription": "- Product Manager \n - Project Manager \n - UX designers \n - React developers \n - NLP engineer",
+      "createdDate": "2020-06-08T20:49:54.861Z",
+      "__v": 0
+    },
+    "date": "2023-08-07T02:00:00.391Z",
+    "startTime": "2023-08-07T02:00:00.391Z",
+    "endTime": "2023-08-07T03:00:00.391Z",
+    "hours": 1,
+    "createdDate": "2023-07-31T23:58:37.391Z",
+    "updatedDate": "2023-07-31T23:58:37.391Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64daea8b03228e0020f675ee",
+    "name": "Onboarding",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "description",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6438b805d52e7c86ae08a6b6",
+      "name": "Hack for LA",
+      "description": "p",
+      "location": "p",
+      "githubUrl": "p",
+      "googleDriveUrl": "p",
+      "projectStatus": "Active",
+      "createdDate": "2023-04-14T02:18:45.106Z",
+      "__v": 0,
+      "slackUrl": "pl"
+    },
+    "date": "2023-08-15T03:02:12.037Z",
+    "startTime": "2023-08-15T04:00:00.037Z",
+    "endTime": "2023-08-15T05:00:00.037Z",
+    "hours": 1,
+    "createdDate": "2023-08-15T03:01:30.884Z",
+    "updatedDate": "2023-08-15T03:02:12.037Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64e534c48a97d90062d0f3ef",
+    "name": "NAME",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "NAME",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-08-28T02:00:00.756Z",
+    "startTime": "2023-08-28T02:00:00.756Z",
+    "endTime": "2023-08-28T03:00:00.756Z",
+    "hours": 1,
+    "createdDate": "2023-08-22T22:20:52.756Z",
+    "updatedDate": "2023-08-22T22:20:52.756Z",
+    "videoConferenceLink": "name.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64e5438736b81c4827f62321",
+    "name": "meetzing",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64e501b48a97d90062d0f3e8",
+      "name": "! ! ! ! ! ! Aqua",
+      "description": "aa",
+      "location": "a",
+      "githubUrl": ".com",
+      "slackUrl": ".com",
+      "googleDriveUrl": ".com",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:43:00.565Z",
+      "__v": 0
+    },
+    "date": "2023-08-28T02:00:00.105Z",
+    "startTime": "2023-08-28T02:00:00.105Z",
+    "endTime": "2023-08-28T03:00:00.105Z",
+    "hours": 1,
+    "createdDate": "2023-08-22T23:23:51.105Z",
+    "updatedDate": "2023-08-22T23:23:51.105Z",
+    "videoConferenceLink": "link.link.co.zoom",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64e7b61133cae4002afea3f0",
+    "name": "ts.TimingBug--7:30PM@@",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "3hrs-update--7:30PM",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-10-04T19:49:52.263Z",
+    "startTime": "2023-09-30T02:30:00.263Z",
+    "endTime": "2023-09-30T05:30:00.263Z",
+    "hours": 3,
+    "createdDate": "2023-08-24T19:57:05.193Z",
+    "updatedDate": "2023-09-29T19:49:52.263Z",
+    "videoConferenceLink": "test.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64e8ce0fd60b02002afe5f3b",
+    "name": "Lorem Ipsum",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Lorem Ipsum",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64e8cdebd60b02002afe5f3a",
+      "name": "Lorem Ipsum",
+      "description": "Lorem Ipsum",
+      "location": "Lorem Ipsum",
+      "githubUrl": "www.github.com",
+      "slackUrl": "www.slack.com",
+      "googleDriveUrl": "www.google.com",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-25T15:51:07.827Z",
+      "__v": 0
+    },
+    "date": "2023-08-28T02:00:00.160Z",
+    "startTime": "2023-08-28T02:00:00.160Z",
+    "endTime": "2023-08-28T03:00:00.160Z",
+    "hours": 1,
+    "createdDate": "2023-08-25T15:51:43.161Z",
+    "updatedDate": "2023-08-25T15:51:43.161Z",
+    "videoConferenceLink": "www.LoremIpsum.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64ea2fe803228e0020f67621",
+    "name": "Meeptaco",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64ea2f6e03228e0020f67620",
+      "name": "1471 AddNewProject",
+      "description": "dec",
+      "location": "In person",
+      "githubUrl": "ghurl",
+      "slackUrl": "slack",
+      "googleDriveUrl": "googledrive",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-26T16:59:26.952Z",
+      "__v": 0
+    },
+    "date": "2023-08-28T02:00:00.100Z",
+    "startTime": "2023-08-28T02:00:00.100Z",
+    "endTime": "2023-08-28T03:00:00.100Z",
+    "hours": 1,
+    "createdDate": "2023-08-26T17:01:28.100Z",
+    "updatedDate": "2023-08-26T17:01:28.100Z",
+    "videoConferenceLink": "www.com.ccom",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "64ffa5fe7d680e00227b480a",
+    "name": "New Perspective Members",
+    "hacknight": "Online",
+    "eventType": "Onboarding",
+    "description": "Alternating Mon/Tue. Click for schedule",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "649f6739322e24d2c7948e0a",
+      "name": "Onboarding",
+      "description": "Lorem ipsum dolor sit amet",
+      "location": "A tree",
+      "githubUrl": "qq",
+      "slackUrl": "qq",
+      "googleDriveUrl": "qq",
+      "projectStatus": "Active",
+      "createdDate": "2023-06-30T23:37:29.249Z",
+      "__v": 0,
+      "githubIdentifier": "Test -- update by Trillium",
+      "hflaWebsiteUrl": "Test -- update by Trillium"
+    },
+    "date": "2023-09-13T01:00:00.744Z",
+    "startTime": "2023-09-13T01:00:00.744Z",
+    "endTime": "2023-09-13T04:00:00.744Z",
+    "hours": 3,
+    "createdDate": "2023-09-11T23:42:54.744Z",
+    "updatedDate": "2023-09-11T23:42:54.744Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6514b321f679d01b5ee23e12",
+    "name": "ts.TimingBug--event",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-10-02T02:00:00.800Z",
+    "startTime": "2023-10-02T02:00:00.800Z",
+    "endTime": "2023-10-02T03:00:00.800Z",
+    "hours": 1,
+    "createdDate": "2023-09-27T22:56:33.800Z",
+    "updatedDate": "2023-09-27T22:56:33.800Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6514b33ff679d01b5ee23e16",
+    "name": "ts.timingBug--WednesdayPST8pm",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-09-28T03:00:00.868Z",
+    "startTime": "2023-09-28T03:00:00.868Z",
+    "endTime": "2023-09-28T04:00:00.868Z",
+    "hours": 1,
+    "createdDate": "2023-09-27T22:57:03.868Z",
+    "updatedDate": "2023-09-27T22:57:03.868Z",
+    "videoConferenceLink": "qq32.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6514b8e52ecb0724f7192e6d",
+    "name": "ts.TimingBug--Wednesday11:30PM",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "update--2hrs",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-09-27T23:48:07.773Z",
+    "startTime": "2023-09-28T06:30:00.773Z",
+    "endTime": "2023-09-28T08:30:00.773Z",
+    "hours": 2,
+    "createdDate": "2023-09-27T23:21:09.283Z",
+    "updatedDate": "2023-09-27T23:48:07.773Z",
+    "videoConferenceLink": "11.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "65161c33e6da59f6a4197fa8",
+    "name": "ts.TimingBug--Thursday8pm",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "2hours",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "640e9e0c93ca11342517e92d",
+      "name": "!!! GMX!!!!!! trillium",
+      "description": "asd",
+      "location": "asdsda",
+      "githubIdentifier": "sadf",
+      "githubUrl": "asdf",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "sd",
+      "hflaWebsiteUrl": "asdf",
+      "projectStatus": "Active",
+      "createdDate": "2023-03-13T03:52:44.089Z",
+      "__v": 0
+    },
+    "date": "2023-09-29T03:00:00.657Z",
+    "startTime": "2023-09-29T03:00:00.657Z",
+    "endTime": "2023-09-29T05:00:00.657Z",
+    "hours": 2,
+    "createdDate": "2023-09-29T00:37:07.657Z",
+    "updatedDate": "2023-09-29T00:37:07.657Z",
+    "videoConferenceLink": "qq.qq",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6519c97a7d680e00227b4880",
+    "name": "PM/Nimbus",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64bedae603228e0020f6759d",
+      "name": "Nimbus and Simba",
+      "description": "C Suite Executives planning meetings",
+      "location": "https://us06web.zoom.us/j/83685103472?pwd=VGpXaWJLWEh5aDlTWVRycVZmZ1V5Zz09",
+      "githubUrl": "test",
+      "slackUrl": "test",
+      "googleDriveUrl": "test",
+      "projectStatus": "Active",
+      "createdDate": "2023-07-24T20:11:18.055Z",
+      "__v": 0,
+      "githubIdentifier": "44",
+      "hflaWebsiteUrl": "nimbusandsimba"
+    },
+    "date": "2023-10-06T19:35:00.156Z",
+    "startTime": "2023-10-02T02:00:00.156Z",
+    "endTime": "2023-10-02T03:00:00.156Z",
+    "hours": 1,
+    "createdDate": "2023-10-01T19:33:14.615Z",
+    "updatedDate": "2023-10-01T19:35:00.156Z",
+    "videoConferenceLink": "zoom.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6519c9937d680e00227b4881",
+    "name": "Simba/Stakeholders",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "CEO and stakeholder meeting",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "64bedae603228e0020f6759d",
+      "name": "Nimbus and Simba",
+      "description": "C Suite Executives planning meetings",
+      "location": "https://us06web.zoom.us/j/83685103472?pwd=VGpXaWJLWEh5aDlTWVRycVZmZ1V5Zz09",
+      "githubUrl": "test",
+      "slackUrl": "test",
+      "googleDriveUrl": "test",
+      "projectStatus": "Active",
+      "createdDate": "2023-07-24T20:11:18.055Z",
+      "__v": 0,
+      "githubIdentifier": "44",
+      "hflaWebsiteUrl": "nimbusandsimba"
+    },
+    "date": "2023-10-01T19:34:46.506Z",
+    "startTime": "2023-10-02T03:30:00.506Z",
+    "endTime": "2023-10-02T04:30:00.506Z",
+    "hours": 1,
+    "createdDate": "2023-10-01T19:33:39.558Z",
+    "updatedDate": "2023-10-01T19:34:46.506Z",
+    "videoConferenceLink": "Teams.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "654436487dfe210021abb364",
+    "name": "Testing for Josh",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "Testing timezone",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "test"
+      ],
+      "managedByUsers": [
+        "test"
+      ],
+      "_id": "64e4ff278a97d90062d0f3e7",
+      "name": "! ! ! ! !TESTING",
+      "description": "test",
+      "location": "test.com",
+      "githubUrl": ".com",
+      "slackUrl": ".com",
+      "googleDriveUrl": ".com",
+      "projectStatus": "test",
+      "createdDate": "2023-08-22T18:32:07.085Z",
+      "__v": 0,
+      "githubIdentifier": "12345678",
+      "googleDriveId": "https://drive.google.com/drive/u/3/folders/1hAq0wyZKOaZLujqOYiaFv5PYgooISger",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/311-data"
+    },
+    "date": "2023-11-06T00:00:00.197Z",
+    "startTime": "2023-11-06T00:00:00.197Z",
+    "endTime": "2023-11-06T01:00:00.197Z",
+    "hours": 1,
+    "createdDate": "2023-11-02T23:52:40.197Z",
+    "updatedDate": "2023-11-02T23:52:40.197Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "65443add7dfe210021abb36a",
+    "name": "Testing for Josh 2",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "testing time zone 2",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "test"
+      ],
+      "managedByUsers": [
+        "test"
+      ],
+      "_id": "64e4ff278a97d90062d0f3e7",
+      "name": "! ! ! ! !TESTING",
+      "description": "test",
+      "location": "test.com",
+      "githubUrl": ".com",
+      "slackUrl": ".com",
+      "googleDriveUrl": ".com",
+      "projectStatus": "test",
+      "createdDate": "2023-08-22T18:32:07.085Z",
+      "__v": 0,
+      "githubIdentifier": "12345678",
+      "googleDriveId": "https://drive.google.com/drive/u/3/folders/1hAq0wyZKOaZLujqOYiaFv5PYgooISger",
+      "hflaWebsiteUrl": "https://www.hackforla.org/projects/311-data"
+    },
+    "date": "2023-11-06T02:00:00.961Z",
+    "startTime": "2023-11-06T02:00:00.961Z",
+    "endTime": "2023-11-06T03:00:00.961Z",
+    "hours": 1,
+    "createdDate": "2023-11-03T00:12:12.961Z",
+    "updatedDate": "2023-11-03T00:12:12.961Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "654bf140ba01695a6c636a26",
+    "name": "1pm event-Wed",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "desc",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6453dfff390bc1002ab3eb6d",
+      "name": "!  !  !  !  !  ! 🦄 MrSquiggles",
+      "description": "Trillium edited this project 7/15 to see if the DB will duplicate an event that is created for 5:00pm",
+      "location": "BLOCK",
+      "githubUrl": "https://github.com/aav",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdfeeddaasaaaaaaa",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-04T16:40:31.024Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "!!! AAVEaaaaaaa",
+      "githubIdentifier": "al;sdfma"
+    },
+    "date": "2023-11-08T21:00:00.469Z",
+    "startTime": "2023-11-08T21:00:00.469Z",
+    "endTime": "2023-11-08T22:00:00.469Z",
+    "hours": 1,
+    "createdDate": "2023-11-08T20:36:16.469Z",
+    "updatedDate": "2023-11-08T20:36:16.469Z",
+    "videoConferenceLink": "linky.com",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "654d55066bfcc100211d1a6c",
+    "name": "Thursday Europe Test",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "testing how this works",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "6453dfff390bc1002ab3eb6d",
+      "name": "!  !  !  !  !  ! 🦄 MrSquiggles",
+      "description": "Trillium edited this project 7/15 to see if the DB will duplicate an event that is created for 5:00pm",
+      "location": "BLOCK",
+      "githubUrl": "https://github.com/aav",
+      "slackUrl": "asdf",
+      "googleDriveUrl": "asdfeeddaasaaaaaaa",
+      "projectStatus": "Active",
+      "createdDate": "2023-05-04T16:40:31.024Z",
+      "__v": 0,
+      "hflaWebsiteUrl": "!!! AAVEaaaaaaa",
+      "githubIdentifier": "al;sdfma"
+    },
+    "date": "2023-11-09T22:00:00.692Z",
+    "startTime": "2023-11-09T22:00:00.692Z",
+    "endTime": "2023-11-09T23:00:00.692Z",
+    "hours": 1,
+    "createdDate": "2023-11-09T21:54:13.692Z",
+    "updatedDate": "2023-11-09T21:54:13.692Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "654d558e6bfcc100211d1a6d",
+    "name": "Testing 11pm Europe",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [
+        "partner"
+      ],
+      "managedByUsers": [
+        "user"
+      ],
+      "_id": "64e5032c8a97d90062d0f3ea",
+      "name": "!  ! ! ! ! ! ! Project !!!! - testing 🐢",
+      "description": "hello world",
+      "location": "https://zoom.us/j/71277712121212122",
+      "githubUrl": ".combjjjj",
+      "slackUrl": ".comggggj",
+      "googleDriveUrl": "https://drive.google.com/hi",
+      "projectStatus": "Active",
+      "createdDate": "2023-08-22T18:49:16.441Z",
+      "__v": 0,
+      "githubIdentifier": "test",
+      "hflaWebsiteUrl": "testvbhm",
+      "googleDriveId": "id"
+    },
+    "date": "2023-11-12T22:00:00.061Z",
+    "startTime": "2023-11-12T22:00:00.061Z",
+    "endTime": "2023-11-12T23:00:00.061Z",
+    "hours": 1,
+    "createdDate": "2023-11-09T21:56:30.061Z",
+    "updatedDate": "2023-11-09T21:56:30.061Z",
+    "videoConferenceLink": "zoom.us",
+    "__v": 0
+  },
+  {
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "owner": {
+      "ownerId": "123456"
+    },
+    "brigade": "Hack for LA",
+    "checkInReady": false,
+    "_id": "6565698a8ac2c3001f6509fe",
+    "name": "LinkedIn Part 1",
+    "hacknight": "Online",
+    "eventType": "Team Meeting",
+    "description": "8:30AM Tuesday",
+    "project": {
+      "recruitingCategories": [],
+      "partners": [],
+      "managedByUsers": [],
+      "_id": "656569658ac2c3001f6509fd",
+      "name": "Hack4LA",
+      "description": "desc",
+      "location": "none",
+      "githubUrl": "qq",
+      "slackUrl": "qq",
+      "googleDriveUrl": "qq",
+      "hflaWebsiteUrl": "qq",
+      "githubIdentifier": "qq",
+      "projectStatus": "Active",
+      "createdDate": "2023-11-28T04:15:33.402Z",
+      "__v": 0
+    },
+    "date": "2023-11-29T04:16:28.502Z",
+    "startTime": "2023-11-27T16:30:00.502Z",
+    "endTime": "2023-11-27T17:30:00.502Z",
+    "hours": 1,
+    "createdDate": "2023-11-28T04:16:10.388Z",
+    "updatedDate": "2023-11-28T04:16:28.502Z",
+    "videoConferenceLink": "linky.link",
+    "__v": 0
+  }
+]
