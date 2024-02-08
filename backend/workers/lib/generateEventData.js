@@ -8,8 +8,11 @@
 
 
 function generateEventData(eventObj, TODAY_DATE = new Date()) {
-    console.log(eventObj.startTime, TODAY_DATE, eventObj.startTime === TODAY_DATE)
-    console.log(eventObj.hours)
+    /**
+     * Generates event data based on the provided event object and date.
+     * In the cron job this function normally runs in, it is expected that eventObj.date is the same as TODAY_DATE.
+     */
+    
     const oldStartTime = new Date(eventObj.startTime);
     // Create new event
     const oldHours = oldStartTime.getHours();
@@ -20,12 +23,19 @@ function generateEventData(eventObj, TODAY_DATE = new Date()) {
     const newYear = TODAY_DATE.getFullYear();
     const newMonth = TODAY_DATE.getMonth();
     const newDate = TODAY_DATE.getDate();
+    
+    const oldTz = oldStartTime.getTimezoneOffset();
+    const newTz = TODAY_DATE.getTimezoneOffset();
+    const tzDiff = oldTz - newTz;
+    console.log("Timezone difference: ", tzDiff);
 
     const newEventDate = new Date(newYear, newMonth, newDate, oldHours, oldMinutes, oldSeconds, oldMilliseconds);
 
     const newEndTime = new Date(newYear, newMonth, newDate, oldHours + eventObj.hours, oldMinutes, oldSeconds, oldMilliseconds)
     // console.log(eventData.startTime, TODAY_DATE)
     // console.log(eventData.endTime, newEndTime)
+    newEventDate.setMinutes(newEventDate.getMinutes() + tzDiff)
+    newEndTime.setMinutes(newEndTime.getMinutes() + tzDiff)
 
     const eventToCreate = {
         name: eventObj.name && eventObj.name,
