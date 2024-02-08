@@ -64,13 +64,13 @@ module.exports = (cron, fetch) => {
             // exists for it and do something if true/false. Can't use
             // forEach function with async/await.
 
-            fs.writeFile("data--filteredRecurringEvents.json", JSON.stringify(
-                // {"boop":"beep"},
-                filteredEvents,
-                null, 2), (err) => {
-                if (err) throw err;
-                console.log('Data written to file 📝', "data--filteredRecurringEvents.json");
-            });
+            // fs.writeFile("data--filteredRecurringEvents.json", JSON.stringify(
+            //     // {"boop":"beep"},
+            //     filteredEvents,
+            //     null, 2), (err) => {
+            //     if (err) throw err;
+            //     console.log('Data written to file 📝', "data--filteredRecurringEvents.json");
+            // });
             
             for (filteredEvent of filteredEvents) {
                 const eventExists = await checkIfEventExists(filteredEvent.name);
@@ -168,10 +168,10 @@ module.exports = (cron, fetch) => {
 
     };
 
-    setTimeout(() => {
-        runTask();
-        console.log("🦄 runTask()")
-    }, 3500);
+    // setTimeout(() => {
+    //     runTask();
+    //     console.log("🦄 runTask()")
+    // }, 3500);
 
     const scheduledTask = cron.schedule('*/30 * * * *', () => {
         runTask();

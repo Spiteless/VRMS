@@ -7,40 +7,43 @@
 // EG 7pm during daylight savings time is 8pm during standard time
 
 
-function generateEventData(eventData, TODAY_DATE = new Date()) {
-    // console.log("🦄")
-    const eventDate = new Date(eventData.startTime);
+function generateEventData(eventObj, TODAY_DATE = new Date()) {
+    console.log(eventObj.startTime, TODAY_DATE, eventObj.startTime === TODAY_DATE)
+    console.log(eventObj.hours)
+    const oldStartTime = new Date(eventObj.startTime);
     // Create new event
-    const hours = eventDate.getHours();
-    const minutes = eventDate.getMinutes();
-    const seconds = eventDate.getSeconds();
-    const milliseconds = eventDate.getMilliseconds();
+    const oldHours = oldStartTime.getHours();
+    const oldMinutes = oldStartTime.getMinutes();
+    const oldSeconds = oldStartTime.getSeconds();
+    const oldMilliseconds = oldStartTime.getMilliseconds();
 
-    const yearToday = TODAY_DATE.getFullYear();
-    const monthToday = TODAY_DATE.getMonth();
-    const dateToday = TODAY_DATE.getDate();
+    const newYear = TODAY_DATE.getFullYear();
+    const newMonth = TODAY_DATE.getMonth();
+    const newDate = TODAY_DATE.getDate();
 
-    const newEventDate = new Date(yearToday, monthToday, dateToday, hours, minutes, seconds, milliseconds);
+    const newEventDate = new Date(newYear, newMonth, newDate, oldHours, oldMinutes, oldSeconds, oldMilliseconds);
 
-    const newEndTime = new Date(yearToday, monthToday, dateToday, hours + eventData.hours, minutes, seconds, milliseconds)
+    const newEndTime = new Date(newYear, newMonth, newDate, oldHours + eventObj.hours, oldMinutes, oldSeconds, oldMilliseconds)
+    // console.log(eventData.startTime, TODAY_DATE)
+    // console.log(eventData.endTime, newEndTime)
 
     const eventToCreate = {
-        name: eventData.name && eventData.name,
-        hacknight: eventData.hacknight && eventData.hacknight,
-        eventType: eventData.eventType && eventData.eventType,
-        description: eventData.eventDescription && eventData.eventDescription,
-        project: eventData.project && eventData.project,
-        date: eventData.date && newEventDate,
-        startTime: eventData.startTime && newEventDate,
-        endTime: eventData.endTime && newEndTime,
-        hours: eventData.hours && eventData.hours
+        name: eventObj.name && eventObj.name,
+        hacknight: eventObj.hacknight && eventObj.hacknight,
+        eventType: eventObj.eventType && eventObj.eventType,
+        description: eventObj.eventDescription && eventObj.eventDescription,
+        project: eventObj.project && eventObj.project,
+        date: eventObj.date && newEventDate,
+        startTime: eventObj.startTime && newEventDate,
+        endTime: eventObj.endTime && newEndTime,
+        hours: eventObj.hours && eventObj.hours
     }
     
-    if (eventData.hasOwnProperty("location")) {
+    if (eventObj.hasOwnProperty("location")) {
         eventToCreate.location = {
-            city: eventData.location.city ? eventData.location.city : 'REMOTE',
-            state: eventData.location.state ? eventData.location.state : 'REMOTE',
-            country: eventData.location.country ? eventData.location.country : 'REMOTE'
+            city: eventObj.location.city ? eventObj.location.city : 'REMOTE',
+            state: eventObj.location.state ? eventObj.location.state : 'REMOTE',
+            country: eventObj.location.country ? eventObj.location.country : 'REMOTE'
         };
     }
     return eventToCreate
