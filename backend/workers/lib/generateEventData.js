@@ -34,8 +34,10 @@ function generateEventData(eventObj, TODAY_DATE = new Date()) {
     const newEndTime = new Date(newYear, newMonth, newDate, oldHours + eventObj.hours, oldMinutes, oldSeconds, oldMilliseconds)
     // console.log(eventData.startTime, TODAY_DATE)
     // console.log(eventData.endTime, newEndTime)
-    newEventDate.setMinutes(newEventDate.getMinutes() + tzDiff)
-    newEndTime.setMinutes(newEndTime.getMinutes() + tzDiff)
+    if (tzDiff != 0) {
+        newEventDate.setMinutes(newEventDate.getMinutes() + tzDiff)
+        newEndTime.setMinutes(newEndTime.getMinutes() + tzDiff)
+    }
 
     const eventToCreate = {
         name: eventObj.name && eventObj.name,
