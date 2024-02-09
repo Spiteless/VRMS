@@ -27,13 +27,11 @@ function generateEventData(eventObj, TODAY_DATE = new Date()) {
     const oldTz = oldStartTime.getTimezoneOffset();
     const newTz = TODAY_DATE.getTimezoneOffset();
     const tzDiff = oldTz - newTz;
-    console.log("Timezone difference: ", tzDiff);
 
     const newEventDate = new Date(newYear, newMonth, newDate, oldHours, oldMinutes, oldSeconds, oldMilliseconds);
 
     const newEndTime = new Date(newYear, newMonth, newDate, oldHours + eventObj.hours, oldMinutes, oldSeconds, oldMilliseconds)
-    // console.log(eventData.startTime, TODAY_DATE)
-    // console.log(eventData.endTime, newEndTime)
+
     if (tzDiff != 0) {
         newEventDate.setMinutes(newEventDate.getMinutes() + tzDiff)
         newEndTime.setMinutes(newEndTime.getMinutes() + tzDiff)
@@ -58,6 +56,7 @@ function generateEventData(eventObj, TODAY_DATE = new Date()) {
             country: eventObj.location.country ? eventObj.location.country : 'REMOTE'
         };
     }
+
     return eventToCreate
 };
 
