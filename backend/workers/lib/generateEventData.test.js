@@ -1,30 +1,6 @@
 const { generateEventData } = require('./generateEventData.js');
 
 describe('generateEventData', () => {
-
-
-  // beforeEach(() => {
-  //   mockDate = new Date('2024-02-07T10:00:00.000Z');
-  //   mockDatePlusThreeHours = new Date(mockDate.setHours(mockDate.getHours() + 3)),
-    
-  //   mockData = {
-  //     name: 'Test Event',
-  //     hacknight: true,
-  //     eventType: 'Workshop',
-  //     description: 'This is a test event',
-  //     project: {
-  //       name: 'Test Project'
-  //     },
-  //     date: mockDate,
-  //     startTime: new Date('2024-02-07T10:00:00.000Z'), 
-  //     endTime: new Date(mockDate.setHours(mockDate.getHours() + 3)),
-  //     updatedDate: mockDate,
-  //     hours: 3,
-  //     videoConferenceLink: "test.com",
-  //   };
-    
-  // })
-
   test("generateEventData fn() generates expected startTime", () => {
     const testDate = new Date('2024-02-07T10:00:00.000Z')
     const testDate2nd = new Date('2024-02-07T10:00:00.000Z')
@@ -87,23 +63,13 @@ describe('generateEventData', () => {
       createdDate: "2023-03-23T01:26:30.706Z",
       updatedDate: "2023-03-23T01:26:30.706Z",
     }
-
-    const devStartTime = new Date(devDbData.startTime)
     
     const newStartTime = new Date("2023-11-23T03:00:00.706Z");
     const newEndTime = new Date("2023-11-23T03:00:00.706Z");
     newEndTime.setHours(newStartTime.getHours() + 1)
 
     const result = generateEventData(devDbData, newStartTime);
-    
-    const devDbDataStartTimeInLA = new Date(devDbData.startTime).toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    const resultStartTimeInLA = result.startTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    const newStartTimeInLA = newStartTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    console.log(
-      "\n", devDbDataStartTimeInLA,
-      "\n", resultStartTimeInLA,
-      "\n", newStartTimeInLA,
-      );
+
     expect(result.startTime).toEqual(newStartTime);
     expect(result.endTime).toEqual(newEndTime);
   });
@@ -123,15 +89,7 @@ describe('generateEventData', () => {
     newEndTime.setHours(newStartTime.getHours() + 1)
 
     const result = generateEventData(devDbData, newStartTime);
-    
-    const devDbDataStartTimeInLA = new Date(devDbData.startTime).toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    const resultStartTimeInLA = result.startTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    const newStartTimeInLA = newStartTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
-    console.log(
-      "\n", devDbDataStartTimeInLA,
-      "\n", resultStartTimeInLA,
-      "\n", newStartTimeInLA,
-      );
+
     expect(result.startTime).toEqual(newStartTime);
     expect(result.endTime).toEqual(newEndTime);
   });
